@@ -1,0 +1,40 @@
+.error{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-top: 100px;
+}
+
+.text{
+    font-size: xx-large;
+    text-align: center;
+}
+
+.GoBack{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 13%;
+    margin-top: -30px;
+    cursor: pointer;
+}
+
+.copyRights{
+    margin-top: -30px;
+}
+
+.socials{
+    display: flex;
+    justify-content: right;
+    margin-top: -30px;
+    transform: translate(0%, 0%);
+}
+
+.reach{
+    display: flex;
+    justify-content: right;
+    margin-top: 80px;
+    transform: translate(0%, 0%);
+}
+
